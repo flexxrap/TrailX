@@ -1,4 +1,4 @@
-[![Test and Build](https://github.com/kkrugley/trailx/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kkrugley/trailx/actions/workflows/ci.yml)
+[![Test and Build](https://github.com/flexxrap/TrailX/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/flexxrap/TrailX/actions/workflows/ci.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)](https://vitejs.dev/)

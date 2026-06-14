@@ -1,6 +1,6 @@
 const NOMINATIM_BASE = 'https://nominatim.openstreetmap.org'
 const NOMINATIM_EMAIL = 'trailx@app'
-const NOMINATIM_USER_AGENT = 'TrailX/1.0 (https://github.com/kkrugley/trailx)'
+const NOMINATIM_USER_AGENT = 'TrailX/1.0 (https://github.com/flexxrap/TrailX)'
 
 export interface GeocodedPlace {
   lat: number
